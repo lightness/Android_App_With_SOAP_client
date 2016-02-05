@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloA</string>
+    <string name="action_settings">Settings</string>
+    <string name="msg_stopped">Stopped</string>
+</resources>
